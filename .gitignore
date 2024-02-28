@@ -1,0 +1,10 @@
+# Python files
+*.pyc
+_pycache_/
+
+# Temporary files
+.ipynb_checkpoints/
+.DS_Store
+
+# Dataset files
+Mobile_Price.csv
